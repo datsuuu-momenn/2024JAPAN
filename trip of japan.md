@@ -179,7 +179,7 @@
 <code>着</code>サンシャインシティプリンスホテル</p>
 </blockquote>
 </blockquote>
-<p><a href="https://www.trip.com/forward/middlepages/channel/edm?targetUrl=https%3A%2F%2Fm.ctrip.com%2Fwebapp%2Fhotels%2Fmap%3Fhotelid%3D2361865%26coordinateinfo%3Dundefined%26firstshow%3DTransport%26allianceid%3D%26ouid%3D%26sid%3D&amp;bizData=eyJldmVudCI6ImNsaWNrIiwia2V5IjoiODgzNjU2MTY0NDQzIiwidGl0bGUiOiJob3RlbE1hcERldGFpbCIsInR5cGUiOiJyZWFjdC5jb21wb25lbnQiLCJuYW1lIjoiQGN0cmlwL2Nsb3VkLWhidS1ob3RlbCIsImxhYmVsIjoiaGJ1LWhvdGVsIiwiaWQiOiJzdHJ1XzRCSzVKSlozZmJSUGR0NyIsImZpbGVJZCI6ImZpbGVfTjlKUGlDekE1M0J3dW5UIiwiYXBwSWQiOiJhcHBsX29mR2V1VWc4aVBKcjZCUSIsImZveHBhZ2VWZXJzaW9uIjoyLCJmcFRyYWNlSWQiOiIwODg3NWNiMS01N2IwLTRmMzItYjMyZC0zM2QyNjcxYTBmYjEtMTcyNzk0ODQ4NzA0MCIsInRlbXBsYXRlSWQiOiJjb250X1l4dFF3bnk3OTNPU1NWRSIsInRlbXBsYXRlVmVyc2lvbiI6MSwiZGF0YSI6eyJuYW1lIjoiaG90ZWxNYXBEZXRhaWwiLCJvcmRlcklkIjozNTM5OTM5ODgxOCwiZW1haWxUeXBlIjoiU0dSIiwidWlkIjoiTTM0MDAzMTk5MSIsInJlcXVlc3RJZCI6Ijk4OTFkMzlhLWMzMzYtNDQ1Yi1hOGVhLWIzZjk3YWVhMGQwYSJ9fQ%3D%3D">谷歌地图:池袋阳光城王子酒店</a>（サンシャインシティプリンスホテル 池袋 東京）</p>
+<p><a href="https://www.google.com/maps/place/%E5%A4%AA%E9%98%B3%E5%9F%8E%E7%8E%8B%E5%AD%90%E5%A4%A7%E9%A5%AD%E5%BA%97/@35.7295337,139.7169707,17z/data=!3m1!5s0x60188d6f00c2ad85:0x4c7e3af5bc8015ad!4m10!3m9!1s0x60188d6fa9b7dcab:0x7e05fd42f00eac0c!5m3!1s2024-10-20!4m1!1i2!8m2!3d35.7295337!4d139.7195456!16s%2Fg%2F11bvcvkz9w?entry=ttu&amp;g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D">谷歌地图:池袋阳光城王子酒店</a>（サンシャインシティプリンスホテル 池袋 東京）</p>
 <blockquote>
 <p>与之前是同一个酒店</p>
 <blockquote>
@@ -203,7 +203,7 @@
 <blockquote>
 <p>新干线去箱根泡温泉</p>
 <blockquote>
-<p>■<a href="https://mail.google.com/mail/u/0/?tab=rm&amp;ogbl#inbox/FMfcgzQXJbBKcTlWRKnBKRvNXpSkKklb">ロマンスカー特急券購入完了</a><br>
+<p>■<a href="https://mail.google.com/mail/u/0/?tab=rm&amp;ogbl#inbox/FMfcgzQXJbBKcTlWRKnBKRvNXpSkKklb">ロマンスカー特急券購入完了</a>　＆　<a href="%5Bhttps://www.emot-tickets.jp/express-ticket-face?language=ja&amp;limitExpressTicketId=3d61334a-5915-4986-8c16-b325bf7b3a4e&amp;site=%5D(https://www.emot-tickets.jp/express-ticket-face?language=ja&amp;limitExpressTicketId=3d61334a-5915-4986-8c16-b325bf7b3a4e&amp;site=)">サイト</a><br>
 (13:20 新宿 → 14:48 箱根湯本)<br>
 ■座席情報<br>
 1号車 一般席 11C席<br>
