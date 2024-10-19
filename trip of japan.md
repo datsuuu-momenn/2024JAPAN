@@ -39,15 +39,19 @@
 <p><code>発</code>サンシャインシティプリンスホテル<br>
 <code>着</code>羽田空港　第1ターミナル</p>
 </blockquote>
-<p>使用方法：略</p>
+<p>使用方法：二维码（QRコード） <a href="https://webservice.limousinebus.co.jp/web/ReservationQR.aspx?RN=Eohs5HzbI1Lzu8LJbQRBoCHA%2bQd9V%2bry6Sdp2ZM2KsY%3d&amp;lang=jp">点击打开</a><a href="https://webservice.limousinebus.co.jp/web/ReservationQR.aspx?RN=Eohs5HzbI1Lzu8LJbQRBoCHA%2bQd9V%2bry6Sdp2ZM2KsY%3d&amp;lang=jp">https://webservice.limousinebus.co.jp/web/ReservationQR.aspx?RN=Eohs5HzbI1Lzu8LJbQRBoCHA%2bQd9V%2bry6Sdp2ZM2KsY%3d&amp;lang=jp</a></p>
+<blockquote>
+<p>装行李前给给司机看一次，上车时在最前面扫码</p>
+</blockquote>
 </blockquote>
 <h3 id="飞机从东京羽田机场t1起飞">14:30飞机从东京羽田机场T1起飞</h3>
 <blockquote>
 <p>取票，托运行李<br>
-日本航空JL121</p>
+日本航空JL121 　 <a href="https://github.com/datsuuu-momenn/TRIPofJP/blob/master/%E5%A4%A7%E9%98%AA%E5%87%BA%E5%8F%91%E8%87%B3%E4%B8%9C%E4%BA%AC%EF%BC%89%E6%9C%BA%E7%A5%A8%E5%87%BA%E8%A1%8C%E5%8D%95.pdf">中文机票凭证</a> ＆　<a href="https://github.com/datsuuu-momenn/TRIPofJP/blob/master/%E5%A4%A7%E9%98%AA%E5%87%BA%E5%8F%91%E8%87%B3%E4%B8%9C%E4%BA%AC%EF%BC%89%E8%8B%B1%E6%96%87%E6%9C%BA%E7%A5%A8%E5%87%BA%E8%A1%8C%E5%8D%95.pdf">英文机票凭证</a></p>
 <blockquote>
-<p>羽田机场 <a href="https://tokyo-haneda.com/zh-CHS/service/foreign_visitors.html">参考网站</a></p>
+<p>把英文机票凭证拿到换票的柜台给她看就行</p>
 </blockquote>
+<p>羽田机场 <a href="https://tokyo-haneda.com/zh-CHS/service/foreign_visitors.html">参考网站</a></p>
 </blockquote>
 <h3 id="飞机到达大阪伊丹机场">15:35飞机到达大阪伊丹机场</h3>
 <blockquote>
@@ -97,7 +101,12 @@
 <blockquote>
 <p>活动时间: 约1小时</p>
 </blockquote>
-<p>有时间吃饭的话可以去尝尝</p>
+<blockquote>
+<p>有时间吃饭的话可以去尝尝 一兰豚骨拉面<br>
+一蘭 心斎橋店   <a href="https://www.google.com/maps/place/Ichiran+Ramen+Shinsaibashi/@34.6742741,135.4973852,17z/data=!3m1!5s0x6000e717317c7b7f:0x3ed48d0bb8a5626f!4m10!1m2!2m1!1z5b-D5paL5qGlIOS4gOWFsA!3m6!1s0x6000e717317aaaab:0x8118e2706e65ac3a!8m2!3d34.6742741!4d135.5018913!15sChDlv4PmlovmoaUg5LiA5YWwIgOIAQFaFSIT5b-DIOaWiyDmoaUg5LiAIOWFsJIBEHJhbWVuX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F11f_slzgl2?hl=zh-CN&amp;entry=ttu&amp;g_ep=EgoyMDI0MTAwOS4wIKXMDSoASAFQAw%3D%3D">地址</a><br>
+一蘭 道頓堀店別館   <a href="https://www.google.com/maps/place/Ichiran+Ramen+Dotonbori+-+South+Building/@34.6686613,135.499719,17z/data=!4m6!3m5!1s0x6000e714e9cbb42b:0x5338ae23699f2862!8m2!3d34.6684219!4d135.5032242!16s%2Fg%2F11b7jxqfv8?hl=zh-CN&amp;entry=ttu&amp;g_ep=EgoyMDI0MTAwOS4wIKXMDSoASAFQAw%3D%3D">地址</a><br>
+一蘭 なんば御堂筋店   <a href="https://www.google.com/maps/place/Ichiran+Namba+Midosuji/@34.6692878,135.4961463,17z/data=!3m1!5s0x6000e713945a1e55:0x5e8d316c678656c3!4m10!1m2!2m1!1z5b-D5paL5qGlIOS4gOWFsA!3m6!1s0x6000e73c53814cdf:0x58aaeb8efaf7e6c4!8m2!3d34.6692878!4d135.5006524!15sChDlv4PmlovmoaUg5LiA5YWwIgOIAQFaFSIT5b-DIOaWiyDmoaUg5LiAIOWFsJIBEHJhbWVuX3Jlc3RhdXJhbnTgAQA!16s%2Fg%2F11fmv9hjzf?hl=zh-CN&amp;entry=ttu&amp;g_ep=EgoyMDI0MTAwOS4wIKXMDSoASAFQAw%3D%3D">地址</a></p>
+</blockquote>
 <p>酒店民宿送/接送套餐的贵宾请等待接驳车到达后，统一安排送回酒店/民宿结束行程</p>
 </blockquote>
 <h3 id="晚餐自理">19:00~晚餐自理</h3>
@@ -238,4 +247,26 @@
 所在地：<a href="https://www.google.com/maps/place/MENYA+NAKAGAWA/@35.7335679,139.7077286,19z/data=!3m1!5s0x60188d5ee3ee3e59:0xb52987ee72b1687a!4m6!3m5!1s0x60188d6272ade9a9:0xe179bb93aa077da6!8m2!3d35.7335677!4d139.7081113!16s%2Fg%2F11s8kr__fb?authuser=0&amp;entry=ttu&amp;g_ep=EgoyMDI0MTAwOS4wIKXMDSoASAFQAw%3D%3D">〒171-0014 Tokyo, Toshima City, Ikebukuro, 2 Chome−38−7 加藤ビル 1階</a></p>
 </blockquote>
 <h3 id="其他饭店推荐">其他饭店推荐</h3>
+<h2 id="年10月31日（水）">2024年10月31日（水）</h2>
+<h3 id="酒店早餐-2">6:30~10:00酒店早餐</h3>
+<h3 id="乘坐机场大巴到达羽田机场（1小时40分）">10:00乘坐机场大巴到达羽田机场（1小时40分）</h3>
+<blockquote>
+<p>9:40~10:00提前到达机场大巴停靠点<br>
+机场大巴票是提前买好的</p>
+<blockquote>
+<p><code>発</code>サンシャインシティプリンスホテル<br>
+<code>着</code>成田空港　第2ターミナル</p>
+</blockquote>
+<p>使用方法：二维码（QRコード） <a href="https://webservice.limousinebus.co.jp/web/ReservationQR.aspx?RN=2EmkYCrFq4kPHAY8GYYADaP%2fA2VVxtBUXofHxVIZG98%3d&amp;lang=jp">点击打开</a><a href="https://webservice.limousinebus.co.jp/web/ReservationQR.aspx?RN=2EmkYCrFq4kPHAY8GYYADaP%2fA2VVxtBUXofHxVIZG98%3d&amp;lang=jp">https://webservice.limousinebus.co.jp/web/ReservationQR.aspx?RN=2EmkYCrFq4kPHAY8GYYADaP%2fA2VVxtBUXofHxVIZG98%3d&amp;lang=jp</a></p>
+<blockquote>
+<p>装行李前给给司机看一次，上车时在最前面扫码</p>
+</blockquote>
+</blockquote>
+<h3 id="到达东京成田机场t2">11:40到达东京成田机场T2</h3>
+<blockquote>
+<p>取票，托运行李</p>
+<blockquote></blockquote>
+<p>成田机场 T2安检过后的商店<a href="https://www.narita-airport.jp/zh-sc/shop/malllist-t2/">参考网站</a></p>
+</blockquote>
+<h3 id="飞机从东京成田机场t2起飞">14:25飞机从东京成田机场T2起飞</h3>
 
