@@ -47,7 +47,7 @@
 <h3 id="飞机从东京羽田机场t1起飞">14:30飞机从东京羽田机场T1起飞</h3>
 <blockquote>
 <p>取票，托运行李<br>
-日本航空JL121 　 <a href="https://github.com/datsuuu-momenn/TRIPofJP/blob/master/%E5%A4%A7%E9%98%AA%E5%87%BA%E5%8F%91%E8%87%B3%E4%B8%9C%E4%BA%AC%EF%BC%89%E6%9C%BA%E7%A5%A8%E5%87%BA%E8%A1%8C%E5%8D%95.pdf">中文机票凭证</a> ＆　<a href="https://github.com/datsuuu-momenn/TRIPofJP/blob/master/%E5%A4%A7%E9%98%AA%E5%87%BA%E5%8F%91%E8%87%B3%E4%B8%9C%E4%BA%AC%EF%BC%89%E8%8B%B1%E6%96%87%E6%9C%BA%E7%A5%A8%E5%87%BA%E8%A1%8C%E5%8D%95.pdf">英文机票凭证</a></p>
+日本航空JL121 　 <a href="https://github.com/datsuuu-momenn/TRIPofJP/blob/master/%E4%B8%9C%E4%BA%AC%E5%87%BA%E5%8F%91%E8%87%B3%E5%A4%A7%E9%98%AA%EF%BC%89%E6%9C%BA%E7%A5%A8%E5%87%BA%E8%A1%8C%E5%8D%95.pdf">中文机票凭证</a> ＆　<a href="https://github.com/datsuuu-momenn/TRIPofJP/blob/master/%E4%B8%9C%E4%BA%AC%E5%87%BA%E5%8F%91%E8%87%B3%E5%A4%A7%E9%98%AA%EF%BC%89%E8%8B%B1%E6%96%87%E6%9C%BA%E7%A5%A8%E5%87%BA%E8%A1%8C%E5%8D%95.pdf">英文机票凭证</a></p>
 <blockquote>
 <p>把英文机票凭证拿到换票的柜台给她看就行</p>
 </blockquote>
