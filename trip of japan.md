@@ -246,7 +246,43 @@
 <p>店名:  MENYA NAKAGAWA<br>
 所在地：<a href="https://www.google.com/maps/place/MENYA+NAKAGAWA/@35.7335679,139.7077286,19z/data=!3m1!5s0x60188d5ee3ee3e59:0xb52987ee72b1687a!4m6!3m5!1s0x60188d6272ade9a9:0xe179bb93aa077da6!8m2!3d35.7335677!4d139.7081113!16s%2Fg%2F11s8kr__fb?authuser=0&amp;entry=ttu&amp;g_ep=EgoyMDI0MTAwOS4wIKXMDSoASAFQAw%3D%3D">〒171-0014 Tokyo, Toshima City, Ikebukuro, 2 Chome−38−7 加藤ビル 1階</a></p>
 </blockquote>
+<h3 id="涩谷附近饭店推荐">涩谷附近饭店推荐</h3>
+<h4 id="泰国料理">泰国料理</h4>
+<blockquote>
+<p>店名: THAI DINING Plaloma<br>
+所在地：<a href="https://www.google.com/maps/place/THAI+DINING+Plaloma/@35.657374,139.6966188,18z/data=!3m1!5s0x60188b56ef9e0ef5:0x9b1e82be3a018794!4m13!1m5!2m4!1z6aSQ5Y6F!5m1!4e3!6e5!3m6!1s0x60188b56ee4506ff:0x6ed7b8b394f04f37!8m2!3d35.6557013!4d139.6980377!15sCgbppJDljoVaCCIG6aSQ5Y6FkgEPdGhhaV9yZXN0YXVyYW504AEA!16s%2Fg%2F11hbph0sr5?authuser=0&amp;entry=ttu&amp;g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D">〒150-0031 Tokyo, Shibuya City, Sakuragaokacho, 30−15 ビバリーヒルズ 101</a></p>
+</blockquote>
+<h4 id="寿司-1">寿司</h4>
+<blockquote>
+<p>店名: 梅丘 寿司の美登利 渋谷店<br>
+所在地：<a href="https://www.google.com/maps/place/Sushi+no+Midori+Shibuya/@35.6583453,139.6942239,17z/data=!3m1!5s0x60188b5631f5f4af:0xf2c804907c6b11f9!4m10!1m2!2m1!1z5a-_5Y-4IOOBriDnvo7nmbvliKk!3m6!1s0x60188b57cdb8d5bb:0x5f3488310a317d5e!8m2!3d35.6583453!4d139.6989875!15sChTlr7_lj7gg44GuIOe-jueZu-WIqSIDiAEBWhYiFOWvv-WPuCDjga4g576O55m75YipkgEQc3VzaGlfcmVzdGF1cmFudOABAA!16s%2Fg%2F1tf6xbh5?authuser=0&amp;entry=ttu&amp;g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D">〒150-0043 Tokyo, Shibuya City, Dogenzaka, 1 Chome−12−3 マークシティイースト ４Ｆ</a></p>
+</blockquote>
+<blockquote>
+<p>店名: 回し寿司活 西武渋谷店<br>
+所在地：<a href="https://www.google.com/maps/place/Mawashizushi+Katsu+Seibu+Shibuya+Store/@35.6602148,139.695739,17z/data=!3m1!5s0x60188ca858d16775:0x7bbbbb7bca5d3ebf!4m10!1m2!2m1!1z5a-_5Y-4IOOBriDnvo7nmbvliKk!3m6!1s0x60188ca81965fe11:0xa9b1e2d5e31cd607!8m2!3d35.6602148!4d139.7005026!15sChTlr7_lj7gg44GuIOe-jueZu-WIqSIDiAEBWhYiFOWvv-WPuCDjga4g576O55m75YipkgEQc3VzaGlfcmVzdGF1cmFudOABAA!16s%2Fg%2F1ydp3c1sn?authuser=0&amp;entry=ttu&amp;g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D">〒150-0042 Tokyo, Shibuya City, Udagawacho, 21−1, A Building, 8階 西武百货涩谷店A馆</a></p>
+</blockquote>
+<h3 id="银座附近饭店推荐">银座附近饭店推荐</h3>
+<h4 id="法国料理">法国料理</h4>
+<blockquote>
+<p>店名: 俺のフレンチ 東京<br>
+所在地：<a href="https://www.google.com/maps/place/Ore-no+French+TOKYO/@35.6743441,139.7496021,15z/data=!3m1!5s0x60188be3ec8ea7c9:0x3c87b6bc920d5eb4!4m10!1m2!2m1!1z5L-644Gu44OV44Os44Oz44OB!3m6!1s0x60188be3ec97ee3d:0xb9594a69ba61ac8b!8m2!3d35.6743441!4d139.7686565!15sChLkv7rjga7jg5Xjg6zjg7Pjg4EiA4gBAVoWIhTkv7og44GuIOODleODrOODs-ODgZIBEWZyZW5jaF9yZXN0YXVyYW504AEA!16s%2Fg%2F11b6s8b3k_?authuser=0&amp;entry=ttu&amp;g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D">〒104-0061 Tokyo, Chuo City, Ginza, 1 Chome−8−19 キラリトギンザ 地下１階</a></p>
+</blockquote>
+<h4 id="龙虾意面">龙虾意面</h4>
+<blockquote>
+<p>店名: トラットリア・イタリア 銀座店<br>
+所在地：<a href="https://www.google.com/maps/place/%E3%83%88%E3%83%A9%E3%83%83%E3%83%88%E3%83%AA%E3%82%A2%E3%83%BB%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2+%E9%8A%80%E5%BA%A7%E5%BA%97/@35.6743415,139.7496021,15z/data=!3m1!5s0x60188be63d27f2cf:0x21d7d6d2fa2e5240!4m10!1m2!2m1!1z44OI44Op44OD44OI44Oq44Ki!3m6!1s0x60188be622b15555:0x4113463dd99061b9!8m2!3d35.6698805!4d139.7632712!15sChLjg4jjg6njg4Pjg4jjg6rjgqJaFCIS44OI44Op44OD44OI44Oq44KikgESaXRhbGlhbl9yZXN0YXVyYW504AEA!16s%2Fg%2F11nx0w1qt0?authuser=0&amp;entry=ttu&amp;g_ep=EgoyMDI0MTAxNi4wIKXMDSoASAFQAw%3D%3D">〒104-0061 Tokyo, Chuo City, Ginza, 6 Chome−9−8 銀座ＵＫビル B1F</a></p>
+</blockquote>
 <h3 id="其他饭店推荐">其他饭店推荐</h3>
+<h4 id="料理">料理</h4>
+<blockquote>
+<p>店名:<br>
+所在地：<a href=""></a></p>
+</blockquote>
+<h4 id="料理-1">料理</h4>
+<blockquote>
+<p>店名:<br>
+所在地：<a href=""></a></p>
+</blockquote>
 <h2 id="年10月31日（水）">2024年10月31日（水）</h2>
 <h3 id="酒店早餐-2">6:30~10:00酒店早餐</h3>
 <h3 id="乘坐机场大巴到达羽田机场（1小时40分）">10:00乘坐机场大巴到达羽田机场（1小时40分）</h3>
